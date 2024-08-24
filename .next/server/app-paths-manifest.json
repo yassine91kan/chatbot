@@ -1,0 +1,4 @@
+{
+  "/ai-chat-bot/page": "app/ai-chat-bot/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
